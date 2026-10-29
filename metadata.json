@@ -1,0 +1,6 @@
+{
+  "name": "ClipForge",
+  "description": "Privacy-first browser video studio powered by WebAssembly for non-linear editing, image-to-video slideshows, audio mixing, and real-time visual effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
